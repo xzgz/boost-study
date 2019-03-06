@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="boost-study" targetName="longest_consecutive_sequence" />
+      <config projectName="boost-study" targetName="virtual_function" />
+      <config projectName="boost-study" targetName="rm_dup_from_sorted_array" />
+      <config projectName="boost-study" targetName="virtual_table" />
+      <config projectName="boost-study" targetName="square_sorted_array" />
+      <config projectName="boost-study" targetName="median_of_two_sorted_arrays" />
+      <config projectName="boost-study" targetName="rm_dup_from_sorted_arrayII" />
+      <config projectName="boost-study" targetName="search_in_rotated_sorted_array" />
+      <config projectName="boost-study" targetName="search_in_rotated_sorted_array2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f52ebd4-a58f-4f47-be02-5138e0f62a18" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="virtual_function.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/array/virtual_function.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="811">
+              <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/boost-thread/boost_internal_locking.cpp" />
+        <option value="$PROJECT_DIR$/boost-thread/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/array/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/array/array.cpp" />
+        <option value="$PROJECT_DIR$/array/array_dup_most_twice.cpp" />
+        <option value="$PROJECT_DIR$/boost_ptr/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/boost-ptr/boost_shared_ptr.cpp" />
+        <option value="$PROJECT_DIR$/boost-ptr/boost_shared_ptr2.cpp" />
+        <option value="$PROJECT_DIR$/boost-ptr/boost_shared_ptr3.cpp" />
+        <option value="$PROJECT_DIR$/boost-ptr/boost_shared_ptr1.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/array/square_sorted_array.cpp" />
+        <option value="$PROJECT_DIR$/array/rm_dup_from_sorted_array.cpp" />
+        <option value="$PROJECT_DIR$/array/search_in_rotated_sorted_array.cpp" />
+        <option value="$PROJECT_DIR$/array/search_in_rotated_sorted_array2.cpp" />
+        <option value="$PROJECT_DIR$/array/rm_dup_from_sorted_arrayII.cpp" />
+        <option value="$PROJECT_DIR$/array/longest_consecutive_sequence.cpp" />
+        <option value="$PROJECT_DIR$/array/virtual_table.cpp" />
+        <option value="$PROJECT_DIR$/array/median_of_two_sorted_arrays.cpp" />
+        <option value="$PROJECT_DIR$/array/virtual_function.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="45" />
+    <option name="y" value="-4" />
+    <option name="width" value="1395" />
+    <option name="height" value="904" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/array" />
+      <recent name="$PROJECT_DIR$/boost_ptr" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.virtual_function">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="boost-study" RUN_TARGET_NAME="median_of_two_sorted_arrays" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="longest_consecutive_sequence" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="boost-study" TARGET_NAME="longest_consecutive_sequence" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="boost-study" RUN_TARGET_NAME="median_of_two_sorted_arrays" />
+    <configuration name="median_of_two_sorted_arrays" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="boost-study" TARGET_NAME="median_of_two_sorted_arrays" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="boost-study" RUN_TARGET_NAME="median_of_two_sorted_arrays" />
+    <configuration name="rm_dup_from_sorted_array" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="boost-study" TARGET_NAME="rm_dup_from_sorted_array" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="boost-study" RUN_TARGET_NAME="virtual_table" />
+    <configuration name="rm_dup_from_sorted_arrayII" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="boost-study" TARGET_NAME="rm_dup_from_sorted_arrayII" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="boost-study" RUN_TARGET_NAME="virtual_table" />
+    <configuration name="search_in_rotated_sorted_array" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="boost-study" TARGET_NAME="search_in_rotated_sorted_array" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="boost-study" RUN_TARGET_NAME="virtual_table" />
+    <configuration name="search_in_rotated_sorted_array2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="boost-study" TARGET_NAME="search_in_rotated_sorted_array2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="boost-study" RUN_TARGET_NAME="virtual_table" />
+    <configuration name="square_sorted_array" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="boost-study" TARGET_NAME="square_sorted_array" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="boost-study" RUN_TARGET_NAME="virtual_table" />
+    <configuration name="virtual_function" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="boost-study" TARGET_NAME="virtual_function" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="boost-study" RUN_TARGET_NAME="virtual_function" />
+    <configuration name="virtual_table" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="boost-study" TARGET_NAME="virtual_table" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="boost-study" RUN_TARGET_NAME="virtual_table" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.longest_consecutive_sequence" />
+      <item itemvalue="Application.median_of_two_sorted_arrays" />
+      <item itemvalue="Application.rm_dup_from_sorted_array" />
+      <item itemvalue="Application.rm_dup_from_sorted_arrayII" />
+      <item itemvalue="Application.search_in_rotated_sorted_array" />
+      <item itemvalue="Application.search_in_rotated_sorted_array2" />
+      <item itemvalue="Application.square_sorted_array" />
+      <item itemvalue="Application.virtual_function" />
+      <item itemvalue="Application.virtual_table" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f52ebd4-a58f-4f47-be02-5138e0f62a18" name="Default" comment="" />
+      <created>1546240139105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546240139105</updated>
+      <workItem from="1546240140828" duration="5102000" />
+      <workItem from="1546245440689" duration="66000" />
+      <workItem from="1546265739778" duration="3225000" />
+      <workItem from="1546317170327" duration="11296000" />
+      <workItem from="1546329311595" duration="14642000" />
+      <workItem from="1550564501964" duration="13041000" />
+      <workItem from="1550641894553" duration="4872000" />
+      <workItem from="1550646799968" duration="5847000" />
+      <workItem from="1550840055950" duration="6000" />
+      <workItem from="1550920682230" duration="7965000" />
+      <workItem from="1551008249644" duration="5969000" />
+      <workItem from="1551053259645" duration="9837000" />
+      <workItem from="1551077253378" duration="3334000" />
+      <workItem from="1551276853700" duration="1270000" />
+      <workItem from="1551698297083" duration="3797000" />
+      <workItem from="1551787695651" duration="2329000" />
+      <workItem from="1551793538034" duration="484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="93082000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="46" y="-11" width="1321" height="780" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24802868" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="right" auto_hide="true" id="Messages" order="4" weight="0.65276724" />
+      <window_info anchor="right" auto_hide="true" id="CMake" order="3" weight="0.74910396" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="right" auto_hide="true" id="Run" order="5" weight="0.49507204" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" auto_hide="true" id="Debug" order="6" weight="0.40788475" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="19" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>*x</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/boost-ptr/boost_shared_ptr3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boost-ptr/boost_shared_ptr1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1558">
+          <caret line="82" column="22" lean-forward="true" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Library/boost_1_69_0/include/boost/core/checked_delete.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boost-ptr/boost_shared_ptr2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boost-ptr/boost_shared_ptr3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/longest_consecutive_sequence.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/array.cpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boost-thread/boost_internal_locking.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boost-thread/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boost-thread/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boost-thread/boost_internal_locking.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Library/boost_1_69_0/include/boost/thread/thread.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/thread/thread.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/x86_64-linux-gnu/c++/5/bits/c++config.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="195" column="10" selection-start-line="195" selection-start-column="10" selection-end-line="195" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/unordered_set.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="92" column="10" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/unordered_map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="779" selection-start-line="779" selection-end-line="779" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/array.cpp" />
+    <entry file="file://$PROJECT_DIR$/boost-thread/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boost-ptr/CMakeLists.txt" />
+    <entry file="file:///usr/include/c++/5/bits/stl_tree.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret line="2206" column="16" lean-forward="true" selection-start-line="2206" selection-start-column="16" selection-end-line="2206" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boost-thread/boost_internal_locking.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Library/boost_1_69_0/include/boost/shared_ptr.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Library/boost_1_69_0/include/boost/smart_ptr/scoped_ptr.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_set.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="81" column="12" lean-forward="true" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Library/boost_1_69_0/include/boost/core/checked_delete.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boost-ptr/boost_shared_ptr2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Library/boost_1_69_0/include/boost/smart_ptr/shared_ptr.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7415">
+          <caret line="339" lean-forward="true" selection-start-line="339" selection-end-line="339" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boost-ptr/boost_shared_ptr3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boost-ptr/boost_shared_ptr1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/algorithm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/cmath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="80" column="2" selection-start-line="80" selection-start-column="2" selection-end-line="80" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_algo.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="2060" lean-forward="true" selection-start-line="2060" selection-end-line="2060" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/square_sorted_array.cpp" />
+    <entry file="file://$PROJECT_DIR$/array/search_in_rotated_sorted_array.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/search_in_rotated_sorted_array2.cpp" />
+    <entry file="file://$PROJECT_DIR$/array/array_dup_most_twice.cpp" />
+    <entry file="file:///usr/include/assert.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/rm_dup_from_sorted_arrayII.cpp" />
+    <entry file="file:///usr/include/c++/5/cassert">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/unordered_set">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/virtual_table.cpp" />
+    <entry file="file://$PROJECT_DIR$/array/rm_dup_from_sorted_array.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/longest_consecutive_sequence.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1143">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="e#315#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/median_of_two_sorted_arrays.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#396#413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/virtual_function.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="811">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
